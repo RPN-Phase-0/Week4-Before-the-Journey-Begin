@@ -13,7 +13,3 @@ function hapusSimbol(str) {
   console.log(hapusSimbol('ma@#k!an~')); // makan
   console.log(hapusSimbol('coding')); // coding
   console.log(hapusSimbol('1+3-5*2=100')); // 1352100
-
-// let string = 'Walaupun regex banyak mengandung simbol, tapi tidak serumit seperti !@#%^%#$*( , ^%&*!!^& dan !#*#$&*@%#';
-// console.log(string.match(/[a-z]+/gi));
-// //menampilkan ["Walaupun", "regex", "banyak", "mengandung", "simbol", "tapi", "tidak", "serumit", "seperti", "dan"]
