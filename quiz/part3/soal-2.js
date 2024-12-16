@@ -4,6 +4,7 @@ Function akan me-return jumlah berapa kali ditemukan kata "abc" secara berturut-
 */
 function cariPelaku(str) {
     // you can only write your code here!
+    return str.match(/abc/g).length
 }
 
 // TEST CASES
